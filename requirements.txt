@@ -8,3 +8,7 @@ newrelic
 lxml
 requests
 flask-cors
+flask
+flask-cors
+requests
+
